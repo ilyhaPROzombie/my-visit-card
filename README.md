@@ -23,11 +23,11 @@
 
 ## 🛠 Технологический стек
 
-![HTML5](https://img.shields.io/badge/HTML5-4A3C2A?style=flat-square&logo=html5&logoColor=F0E6C8)
-![CSS3](https://img.shields.io/badge/CSS3-4A3C2A?style=flat-square&logo=css3&logoColor=F0E6C8)
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-4A3C2A?style=flat-square&logo=javascript&logoColor=C1D82F)
-![Swiper](https://img.shields.io/badge/Swiper.js-4A3C2A?style=flat-square&logo=swiper&logoColor=C1D82F)
-![PHP](https://img.shields.io/badge/PHP-5D6553?style=flat-square&logo=php&logoColor=F0E6C8)
-![WordPress](https://img.shields.io/badge/WordPress_/_ACF-5D6553?style=flat-square&logo=wordpress&logoColor=F0E6C8)
+<picture><img src="https://img.shields.io/badge/HTML5-4A3C2A?style=flat-square&logo=html5&logoColor=F0E6C8" alt="HTML5"></picture>
+<picture><img src="https://img.shields.io/badge/CSS3-4A3C2A?style=flat-square&logo=css3&logoColor=F0E6C8" alt="CSS3"></picture>
+<picture><img src="https://img.shields.io/badge/JavaScript_ES6+-4A3C2A?style=flat-square&logo=javascript&logoColor=C1D82F" alt="JavaScript"></picture>
+<picture><img src="https://img.shields.io/badge/Swiper.js-4A3C2A?style=flat-square&logo=swiper&logoColor=C1D82F" alt="Swiper"></picture>
+<picture><img src="https://img.shields.io/badge/PHP-5D6553?style=flat-square&logo=php&logoColor=F0E6C8" alt="PHP"></picture>
+<picture><img src="https://img.shields.io/badge/WordPress_/_ACF-5D6553?style=flat-square&logo=wordpress&logoColor=F0E6C8" alt="WordPress"></picture>
 
 
